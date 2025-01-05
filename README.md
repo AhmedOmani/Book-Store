@@ -7,6 +7,7 @@ This is a simple Node.js project built using the **MVC (Model-View-Controller)**
 ## Project Structure
 
 The project follows the MVC pattern and is organized as follows:
+.
 ├── Controllers/ # Contains the logic for handling requests
 ├── Database/ # Database connection and configuration
 ├── Models/ # Defines the data models (e.g., Mongoose schemas)
