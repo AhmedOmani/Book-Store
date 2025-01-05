@@ -16,6 +16,7 @@ The project follows the MVC pattern and is organized as follows:
 ├── package.json # Project dependencies and scripts
 ├── package-lock.json # Lock file for dependencies
 └── server.js # Entry point of the application
+---
 
 ## Purpose
 
