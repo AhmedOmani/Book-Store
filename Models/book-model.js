@@ -24,4 +24,4 @@ const BookSchema = new mongoos.Schema({
     }
 });
 
-module.exports = mongoos.model("Books" , BookSchema)
+module.exports = mongoos.model("Book" , BookSchema)
